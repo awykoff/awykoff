@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @awykoff
 - 👀 I’m interested in Contentful content management, process improvement, and compliance
-- 🌱 I’m currently learning GatsbyJS
-- 💞️ I’m looking to collaborate on anything related to compliance documentation and best practice for workflow and collaboration
+- 🌱 I’m currently learning React and Python
+- 💞️ I’m looking to collaborate on anything related to sales automation playbooks
 - 📫 How to reach me infrastructureguru@Gmail.com 
 
 <!---
